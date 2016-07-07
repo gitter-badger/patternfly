@@ -31,3 +31,4 @@ exclude_paths:
 - dist/fonts/
 - dist/img/
 - tests/
+- less/lib
